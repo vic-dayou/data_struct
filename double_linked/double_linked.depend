@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527767567 source:d:\data_struct\double_linked\double_linked.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+
+1527767570 source:d:\data_struct\double_linked\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527986941 source:d:\data_struct\sushu\main.c
+	<stdio.h>
+	<stdlib.h>
+
