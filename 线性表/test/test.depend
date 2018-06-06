@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527488509 source:d:\data_struct\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527488489 source:d:\data_struct\test\line.c
+	<stdio.h>
+	<malloc.h>
+	<stdlib.h>
+

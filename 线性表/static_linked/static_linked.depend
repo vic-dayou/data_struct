@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527680840 source:d:\data_struct\static_linked\static_linked.c
+	<stdio.h>
+
+1527680773 source:d:\data_struct\static_linked\main.c
+	<stdio.h>
+	<stdlib.h>
+

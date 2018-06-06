@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1528000592 source:d:\data_struct\circular\circular_linked.c
+	<stdio.h>
+	<malloc.h>
+
+1528000821 source:d:\data_struct\circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
